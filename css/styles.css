@@ -16,3 +16,17 @@ img{
     width:50%;
     margin: 0 auto;
 }
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    background-color: white;
+    align-items: center;
+}
+
+.flex-item {
+    margin: auto;
+    width: 25%;
+}
