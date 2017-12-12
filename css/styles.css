@@ -14,6 +14,7 @@ color: white;
 
 img{
     width:50%;
+    display: block;
     margin: 0 auto;
 }
 
@@ -28,5 +29,5 @@ img{
 
 .flex-item {
     margin: auto;
-    width: 25%;
+    width: 100%;
 }
